@@ -1,6 +1,6 @@
 # Flight Routes Dashboard
 
-![Alt text](src\dashboard.png)
+![Alt text](src/dashboard.png)
 
 ## Description
 
